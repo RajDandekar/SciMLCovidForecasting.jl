@@ -1,0 +1,13 @@
+name = "SciMLCovidForecasting"
+uuid = "11f42bff-7b3d-4587-a98d-0fd6b2a1b567"
+authors = ["Raj Dandekar"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
